@@ -22,7 +22,7 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The Pre-Processing process utilized can be found [here](https://github.com/VijayAndem/HR-Dashboard-Tableau/blob/main/Data%20Cleaning.md). 
+- The Pre-Processing process utilized can be found [here](https://github.com/And3m/HR-Dashboard-Tableau/blob/main/Data%20Cleaning.md).
 - An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/vijay.andem/viz/HRDashboard_17508422928230/HRDetails?publish=yes).
 
 # Data Structure
